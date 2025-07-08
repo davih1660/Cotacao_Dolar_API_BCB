@@ -1,2 +1,2 @@
 # Projetos_Mentoria
-Aqui são meus desafios passado pelo meu mentor.
+Este é um dos desafios propostos pelo meu mentor.
